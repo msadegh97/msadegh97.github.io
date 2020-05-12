@@ -1,21 +1,23 @@
 
 [
 {
-    "author":[{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Samadi","given":"Mohammad Amin"},{"family":"Zahabi","given":"Sayed Jalal"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Maleki","given":"Zeinab"}],
+    "author":[{"family":"Samadi*","given":"Mohammad Amin"},{"family":"Akhondzadeh*","given":"Mohammad Sadegh"},{"family":"Zahabi","given":"Sayed Jalal"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Maleki","given":"Zeinab"}, {"family":"Adibi","given":"Payman"}],
 "title":"Evaluating Sparse Interpretable Word Embeddings For Medical Domain",
 "type":"preprint",
-"container-title":"",
+"container-title":"arXiv",
 "language":"en",
 "issued":{"date-parts": [[2020]]},
-"code": "https://github.com/Institute-for-Artificial-Intelligence/Sparse-Interpretable-Word-Embeddings-For-Medical-Domain"
+"code": "https://github.com/Institute-for-Artificial-Intelligence/Sparse-Interpretable-Word-Embeddings-For-Medical-Domain",
+"URL": "https://arxiv.org/abs/2005.05114"
 },
 {
-    "author":[{"family":"Kargaran","given":"Amir Hossein"},{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Heidarpour","given":"Mohammad Reza"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Salamatian","given":"Kave"}],
-"title":"On Detecting Hidden Third-Party Trackers with a Wide Dependency Chain Graph: A Representation Learning Approach",
+    "author":[{"family":"Kargaran","given":"Amir Hossein"},{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Heidarpour","given":"Mohammad Reza"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Salamatian","given":"Kave"}, {"family":"Salamatian","given":"Masoud"}],
+"title":"On Detecting Hidden Third-Party Web Trackers with a Wide Dependency Chain Graph: A Representation Learning Approach",
 "type":"preprint",
-"container-title":"",
+"container-title":"arXiv",
 "language":"en",
-"issued":{"date-parts": [[2020]]}
+"issued":{"date-parts": [[2020]]},
+"URL": "https://arxiv.org/abs/2004.14826"
 },
 
 {
@@ -25,7 +27,8 @@
 "type":"article-journal",
 "container-title":"Frontiers in Neuroscience",
 "language":"en",
-"issued":{"date-parts": [[2019]]}
+"issued":{"date-parts": [[2019]]},
+"URL": "https://www.frontiersin.org/articles/10.3389/fnins.2019.01325/full"
 },
 
 ]
