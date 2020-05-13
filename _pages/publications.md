@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-author_profile: True 
+author_profile: True
 permalink: /publications/
 title: "Publications"
 excerpt: "List of Publications of Mohammad Sadegh Akhondzadeh"
@@ -42,7 +42,7 @@ A complete list of my publications are available in my [Google Scholar profile](
     {% else %}
      <span class="btn btn--danger btn--small" style="padding: 0.1em 0.5em;">Other</span>
   {% endcase %}
-  
+
   {% for auth in publication.author %}<span style="font-size: 0.8em;" itemprop="author">{{ auth.given }} {{ auth.family }}{% if forloop.last == false %}, {% else %}.{% endif %}</span>{% endfor %}
   <br/>
   <em><span style="text-transform:uppercase" itemprop="name">{{ publication.title }}</span></em>.
@@ -68,7 +68,7 @@ A complete list of my publications are available in my [Google Scholar profile](
   {% if publication.code %}
     [<span style="padding: 0.1em 0.1em;"><i class="fas fa-link"></i></span><span style="padding: 0.1em 0.1em;"><a target="_blank" href="{{ publication.code }}">Code</a></span>]
   {% endif %}
-  
+
   {% if publication.preprint %}
     [<span style="padding: 0.1em 0.1em;"><i class="fas fa-file-pdf"></i></span><span style="padding: 0.1em 0.1em;"><a target="_blank"  href="{{ publication.URL }}">Pre-Print</a></span>]
   {% endif %}

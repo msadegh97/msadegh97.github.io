@@ -11,7 +11,7 @@
 "URL": "https://arxiv.org/abs/2005.05114"
 },
 {
-    "author":[{"family":"Kargaran","given":"Amir Hossein"},{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Heidarpour","given":"Mohammad Reza"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Salamatian","given":"Kave"}, {"family":"Salamatian","given":"Masoud"}],
+    "author":[{"family":"Kargaran","given":"Amir Hossein"},{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Heidarpour","given":"Mohammad Reza"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Salamatian","given":"Kave"}, {"family":"Nejad Sattary","given":"Masoud"}],
 "title":"On Detecting Hidden Third-Party Web Trackers with a Wide Dependency Chain Graph: A Representation Learning Approach",
 "type":"preprint",
 "container-title":"arXiv",
