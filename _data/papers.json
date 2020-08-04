@@ -1,6 +1,16 @@
 
 [
 {
+    "author":[{"family":"Akhondzadeh","given":"Mohammad Sadegh"},{"family":"Omidi","given":"Alireza"},{"family":"Maleki","given":"Zeinab"},{"family":"Coombes","given":"Kevin"},{"family":"E.Toland","given":"Amanda"}, {"family":"Asiaee","given":"Amir"}],
+"title":"Learning Cancer Progression Network from Mutation Allele Frequencies",
+"type":"paper-workshop",
+"container-title":"2020 ICML Computational Biology Workshop",
+"language":"en",
+"issued":{"date-parts": [[2020]]},
+"code": "https://github.com/alirezaomidi/cancerdag",
+"URL": "https://icml-compbio.github.io/2020/papers/WCBICML2020_paper_36.pdf"
+},
+{
     "author":[{"family":"Samadi*","given":"Mohammad Amin"},{"family":"Akhondzadeh*","given":"Mohammad Sadegh"},{"family":"Zahabi","given":"Sayed Jalal"},{"family":"Manshaei","given":"Mohammad Hossein"},{"family":"Maleki","given":"Zeinab"}, {"family":"Adibi","given":"Payman"}],
 "title":"Evaluating Sparse Interpretable Word Embeddings For Medical Domain",
 "type":"preprint",
@@ -19,7 +29,6 @@
 "issued":{"date-parts": [[2020]]},
 "URL": "https://arxiv.org/abs/2004.14826"
 },
-
 {
     "author":[{"family":"Sherkatghanad","given":"Zeinab"},{"family":"Akhondzadeh","given":"Mohammadsadegh"},{"family":"Salari","given":"Soorena"},{"family":"Zomorodi-Moghadam","given":"Mariam"},{"family":"Acharya","given":"U.Rajendra"},{"family":"Abdar","given":"Moloud "},{"family":"Khosrowabadi","given":"Reza"},{"family":"Salari","given":"Vahid"}],
 "title":"Automated detection of autism spectrum disorder using a convolutional neural network",
@@ -29,8 +38,7 @@
 "language":"en",
 "issued":{"date-parts": [[2019]]},
 "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2019.01325/full"
-},
-
+}
 ]
   
 
