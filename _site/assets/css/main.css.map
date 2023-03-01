@@ -3,11 +3,11 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../msadegh97.github.io/_sass/_variables.scss",
-		"../../msadegh97.github.io/_sass/_themes.scss",
-		"../../msadegh97.github.io/_sass/_layout.scss",
-		"../../msadegh97.github.io/_sass/_base.scss",
-		"../../msadegh97.github.io/_sass/_distill.scss"
+		"_sass/_variables.scss",
+		"_sass/_themes.scss",
+		"_sass/_layout.scss",
+		"_sass/_base.scss",
+		"_sass/_distill.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n// Dimensions\n$max-content-width: 800px;\n\n@import\n  \"variables\",\n  \"themes\",\n  \"layout\",\n  \"base\",\n  \"distill\"\n;\n",
