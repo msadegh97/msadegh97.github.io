@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.webp
+  image: myimg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Universität zu Köln Abteilung Informatik</p>
