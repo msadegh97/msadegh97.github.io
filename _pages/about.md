@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Universität zu Köln Abteilung Informatik</p>
+    <p>Sibille-Hartmann-Str. 2-8</p>
+    <p>50969 Köln Deutschland</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Sadegh 👋. I’m a PhD student at the University of Cologne, fortunate to be advised by [Dr. Aleksandar Bojchevski](https://abojchevski.github.io/). During my PhD, I completed an internship at [Axelera AI](https://axelera.ai). Before that, I worked as a research assistant at [CISPA](http://cispa.de) and completed my master's degree at [Saarland University](http://saarland-informatics-campus.de).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research focuses on trustworthy machine learning and efficient machine learning.
+
+I’m always open to collaboration and new opportunities—feel free to reach out via email!
