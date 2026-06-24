@@ -11,3 +11,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# Local dev override (pinned image, not for deploy)
+docker-compose.override.yml
